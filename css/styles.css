@@ -1,28 +1,25 @@
 h1 {
-  color: cornflowerblue;
+    color: cornflowerblue;
 
 }
-body{
-  background-color: lightgray;
-}
-ul {
-  color: red;
-}
-p {
-  color: green;
-}
-#goal-list{
-  border-style: solid;
-  border-color: black;
-  width: 30%;
-}
-#css-item{
-  color: #5179ba;
+
+.list-item {
+    font-family: monospace;
 }
 
-#picture{
-  width: 60%;
-  float: right;
-  border: solid;
-  border-color: grey beige white grey;
+#goal-list {
+    border-style: solid;
+    border-color: #5179ba;
+    width: 30%;
+}
+
+#css-item {
+    color: #5179ba;
+}
+
+#picture {
+    width: 60%;
+    float: right;
+    border: solid;
+    border-color: grey beige white grey;
 }
